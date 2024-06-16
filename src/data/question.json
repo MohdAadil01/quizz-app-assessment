@@ -1,0 +1,72 @@
+[
+  {
+    "qNo": 1,
+    "id": 1,
+    "question": "What is the capital of France?",
+    "options": ["London", "Paris", "Berlin", "Madrid"],
+    "correctAnswer": "Paris"
+  },
+  {
+    "qNo": 2,
+    "id": 2,
+    "question": "Who wrote 'Hamlet'?",
+    "options": ["Shakespeare", "Dickens", "Twain", "Hemingway"],
+    "correctAnswer": "Shakespeare"
+  },
+  {
+    "qNo": 3,
+    "id": 3,
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "qNo": 4,
+    "id": 4,
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Pb", "Fe"],
+    "correctAnswer": "Au"
+  },
+  {
+    "qNo": 5,
+    "id": 5,
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Van Gogh", "Picasso", "Da Vinci", "Rembrandt"],
+    "correctAnswer": "Da Vinci"
+  },
+  {
+    "qNo": 6,
+    "id": 6,
+    "question": "What is the smallest country in the world?",
+    "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+    "correctAnswer": "Vatican City"
+  },
+  {
+    "qNo": 7,
+    "id": 7,
+    "question": "What is the longest river in the world?",
+    "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+    "correctAnswer": "Amazon"
+  },
+  {
+    "qNo": 8,
+    "id": 8,
+    "question": "Who is known as the 'Father of Computers'?",
+    "options": ["Alan Turing", "Bill Gates", "Charles Babbage", "Steve Jobs"],
+    "correctAnswer": "Charles Babbage"
+  },
+  {
+    "qNo": 9,
+    "id": 9,
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Platinum"],
+    "correctAnswer": "Diamond"
+  },
+  {
+    "qNo": 10,
+    "id": 10,
+    "question": "Who discovered penicillin?",
+    "options": ["Marie Curie", "Alexander Fleming", "Isaac Newton", "Albert Einstein"],
+    "correctAnswer": "Alexander Fleming"
+  }
+]
