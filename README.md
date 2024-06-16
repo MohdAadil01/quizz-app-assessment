@@ -2,7 +2,7 @@
 
 A simple quiz application built with React.js that allows users to take a quiz in full-screen mode, with multiple-choice questions and a timer.
 
-Link: 
+Link: https://quizz-app-beryl.vercel.app/
 
 ## Features
 
